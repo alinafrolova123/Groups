@@ -1,0 +1,52 @@
+{
+  "followers": [
+    {
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/1",
+      "name": "Follower Folowerenko"
+    },
+    {
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/2",
+      "name": "User Userenko"
+    },
+    {
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/3",
+      "name": "Friend Friendenko"
+    }
+  ],
+  "following": [
+    {
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/1",
+      "name": "SOme guy!!"
+    },
+    {
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/2",
+      "name": "Hell Yeah!!"
+    },
+    {
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/3",
+      "name": "That's me"
+    }
+  ],
+  "posts": [
+    {
+      "title": "ServiceRocket1",
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/1",
+      "text": "Project engineer with interest on design and develop of software components responsible for managing the logic and systems integration, that allow communicate web and mobile applications with the data sources of a business. With experiences developing REST/SOAP web services in Java and design and modeling of data for SQL and No-SQL databases."
+    },
+    {
+      "title": "ServiceRocket2",
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/11",
+      "text": "Project engineer with interest on design and develop of software components responsible for managing the logic and systems integration, that allow communicate web and mobile applications with the data sources of a business. With experiences developing REST/SOAP web services in Java and design and modeling of data for SQL and No-SQL databases."
+    },
+    {
+      "title": "ServiceRocket3",
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/10",
+      "text": "Project engineer with interest on design and develop of software components responsible for managing the logic and systems integration, that allow communicate web and mobile applications with the data sources of a business. With experiences developing REST/SOAP web services in Java and design and modeling of data for SQL and No-SQL databases."
+    },
+    {
+      "title": "ServiceRocket4",
+      "img": "https://www.certmetrics.com/api/ob/image/amazon/c/6",
+      "text": "Project engineer with interest on design and develop of software components responsible for managing the logic and systems integration, that allow communicate web and mobile applications with the data sources of a business. With experiences developing REST/SOAP web services in Java and design and modeling of data for SQL and No-SQL databases."
+    }
+  ]
+}

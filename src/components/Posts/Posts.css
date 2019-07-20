@@ -1,0 +1,14 @@
+.postArea {
+  margin-top: 1rem !important;
+  color: white;
+  border-radius: 10px;
+  background-color: #282c37;
+}
+
+.postImgDiv {
+  width: 20%;
+}
+
+.postImg {
+  width: 100%;
+}
